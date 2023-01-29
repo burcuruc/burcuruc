@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Burcu</h1>
-- 🌱 I’m currently learning **JavaScript,React,.Net**
+- 🌱 I’m currently learning JavaScript,React,.Net
 
 - 📫 How to reach me **burcuorucc@hotmail.com**
 
